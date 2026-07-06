@@ -21,8 +21,8 @@
 
 <p><em>Based in the United States · Open to remote · Actively interviewing for software engineering roles</em></p>
 
-<!-- Snake animation divider -->
-<img src="https://raw.githubusercontent.com/dustindog101/dustindog101/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
+<!-- Activity graph divider -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dustindog101&theme=github-compact&bg_color=0d1117&color=1f6feb&line=1f6feb&point=c9d1d9&hide_border=true&area=true&area_color=1f6feb33" width="100%" alt="contribution activity graph"/>
 
 </div>
 
